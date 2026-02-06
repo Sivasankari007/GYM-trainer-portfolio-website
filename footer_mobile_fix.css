@@ -1,0 +1,38 @@
+﻿    .process-timeline {
+        grid-template-columns: 1fr;
+    }
+
+    .footer {
+        padding: 40px 0 30px;
+        margin-top: 60px;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 24px;
+        text-align: center;
+        padding-bottom: 30px;
+    }
+
+    .footer-brand h3 {
+        font-size: 1.2rem;
+        letter-spacing: 0.1em;
+    }
+
+    .footer-brand p {
+        font-size: 0.8rem;
+    }
+
+    .footer-links {
+        flex-direction: column;
+        gap: 12px;
+    }
+
+    .footer-links a {
+        font-size: 0.8rem;
+    }
+
+    .footer-bottom p {
+        font-size: 0.75rem;
+    }
+}
